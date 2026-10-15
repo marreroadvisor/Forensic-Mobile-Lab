@@ -6,7 +6,7 @@ Aplicación de escritorio para macOS que permite adquirir y analizar datos de di
 
 ## Descargar
 
-[Descargar Forensic Mobile Lab 3.2.0 para Mac](https://github.com/jessiel212/Forensic-Mobile-Lab/releases/download/v3.2.0/Forensic-Mobile-Lab-3.2.0-macOS-universal.zip) · [Guía de uso](GUIA.md) · [Cambios](RELEASE-NOTES-3.2.md)
+[Descargar Forensic Mobile Lab 3.2.0 para Mac](https://github.com/marreroadvisor/Forensic-Mobile-Lab/releases/download/v3.2.0/Forensic-Mobile-Lab-3.2.0-macOS-universal.zip) · [Guía de uso](GUIA.md) · [Cambios](RELEASE-NOTES-3.2.md)
 
 Requiere **macOS 13 o posterior**. Ejecutables universales Apple Silicon e Intel; el conector automático iPhone está optimizado para Apple Silicon. La revisión de backups existentes está disponible en Intel.
 
@@ -52,6 +52,6 @@ Para reportar errores o proponer mejoras, abre un issue con pasos reproducibles 
 
 ## Ficha y recorrido visual
 
-[Ficha del programa](FICHA.md) · [Video de 15 segundos](docs/videos/forensic-tour.mp4) · [Reportar un error](https://github.com/jessiel212/Forensic-Mobile-Lab/issues/new?template=error.yml) · [Proponer una mejora](https://github.com/jessiel212/Forensic-Mobile-Lab/issues/new?template=mejora.yml)
+[Ficha del programa](FICHA.md) · [Video de 15 segundos](docs/videos/forensic-tour.mp4) · [Reportar un error](https://github.com/marreroadvisor/Forensic-Mobile-Lab/issues/new?template=error.yml) · [Proponer una mejora](https://github.com/marreroadvisor/Forensic-Mobile-Lab/issues/new?template=mejora.yml)
 
 El video es un recorrido de capturas de la interfaz con datos de demostración; no es una grabación de una adquisición o conversión en ejecución.

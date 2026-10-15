@@ -26,7 +26,7 @@ Versión experimental con firma local, sin notarización de Apple. macOS puede b
 
 ## Recursos
 
-[Descarga](https://github.com/jessiel212/Forensic-Mobile-Lab/releases) · [Guía](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/GUIA.md) · [Código](https://github.com/jessiel212/Forensic-Mobile-Lab)
+[Descarga](https://github.com/marreroadvisor/Forensic-Mobile-Lab/releases) · [Guía](https://github.com/marreroadvisor/Forensic-Mobile-Lab/blob/main/GUIA.md) · [Código](https://github.com/marreroadvisor/Forensic-Mobile-Lab)
 
 ## Contacto
 
