@@ -1,0 +1,47 @@
+name: Error / Bug report
+description: Informa un fallo reproducible usando datos de ejemplo / Report a reproducible bug.
+title: "[Error]: "
+body:
+  - type: markdown
+    attributes:
+      value: "No incluyas datos privados, expedientes, claves ni documentos personales. / Do not include private data, evidence, keys or personal documents."
+  - type: input
+    id: version
+    attributes:
+      label: Versión de la app / App version
+      placeholder: "Ejemplo: 3.2.0"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: macOS y procesador / macOS and processor
+      placeholder: "macOS, Apple Silicon o Intel"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducir / Steps to reproduce
+      description: Usa un caso sintético o archivo de demostración.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado / Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Resultado observado / Actual result
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacidad / Privacy
+      options:
+        - label: He eliminado datos privados y credenciales / I removed private data and credentials.
+          required: true

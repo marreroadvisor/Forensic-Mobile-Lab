@@ -49,3 +49,9 @@ El resultado queda en `dist/Forensic-Mobile-Lab-3.2.0-macOS-universal.zip`. El p
 Código propio: [MIT](LICENSE). [Dependencias y licencias](DEPENDENCIES.md). Cada componente de terceros conserva sus condiciones; las fuentes complementarias se adjuntan a la versión publicada.
 
 Para reportar errores o proponer mejoras, abre un issue con pasos reproducibles y datos sintéticos. No adjuntes expedientes, identificadores de dispositivos, claves ni información personal.
+
+## Ficha y recorrido visual
+
+[Ficha del programa](FICHA.md) · [Video de 15 segundos](docs/videos/forensic-tour.mp4) · [Reportar un error](https://github.com/jessiel212/Forensic-Mobile-Lab/issues/new?template=error.yml) · [Proponer una mejora](https://github.com/jessiel212/Forensic-Mobile-Lab/issues/new?template=mejora.yml)
+
+El video es un recorrido de capturas de la interfaz con datos de demostración; no es una grabación de una adquisición o conversión en ejecución.

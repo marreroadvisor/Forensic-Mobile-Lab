@@ -1,0 +1,27 @@
+name: Sugerencia / Feature request
+description: Propón una mejora concreta / Suggest a specific improvement.
+title: "[Mejora]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Necesidad o problema / Need or problem
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Mejora propuesta / Proposed improvement
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas / Alternatives
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacidad / Privacy
+      options:
+        - label: La propuesta no incluye datos privados / This request contains no private data.
+          required: true

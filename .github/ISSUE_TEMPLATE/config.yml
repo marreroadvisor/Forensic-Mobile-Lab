@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Guía de uso / User guide
+    url: https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/GUIA.md
+    about: Consulta requisitos y limitaciones / Read requirements and limitations.
