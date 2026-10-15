@@ -1,0 +1,121 @@
+[
+  {
+    "name": "pyiosbackup",
+    "version": "0.2.4",
+    "filename": "pyiosbackup-0.2.4.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/46/ab/c7c3caf6785ced43d02c8c37be3c84720c40d6a9b237eb2ff560af4114e1/pyiosbackup-0.2.4.tar.gz",
+    "sha256": "10b4d2a11c9bedc93a5467cad3addbe18bc2dc434156920e7223226ed4d0beb7"
+  },
+  {
+    "name": "pycrashreport",
+    "version": "2.0.0",
+    "filename": "pycrashreport-2.0.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/aa/9c/1e1c2d84f746972cbe4d5e65f816008c64e427fc680f55115aa313683c23/pycrashreport-2.0.0.tar.gz",
+    "sha256": "31d5e32faa3a047fe01e923bde3eaf1ec86b23e264babf2fc8f7b61fe4812342"
+  },
+  {
+    "name": "ipsw-parser",
+    "version": "1.7.3",
+    "filename": "ipsw_parser-1.7.3.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/85/0d/27e277301312cbb56a46ec7787e34c2d8b16ddcca201d0f858894693dcbc/ipsw_parser-1.7.3.tar.gz",
+    "sha256": "412bbbb773b434b0f994bd043cdb57d90ab1a4ae72fa8489b71900cd856d36ea"
+  },
+  {
+    "name": "pylzss",
+    "version": "0.3.4",
+    "filename": "pylzss-0.3.4.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/7d/dc/9ae75ede398b7adf538f2d1dca0f96c645c4e96789f8039340a0ed6a8a8f/pylzss-0.3.4.tar.gz",
+    "sha256": "16818631742488e53a34fda0d402d80edb2b812e11877801e21a9e5ce9b9db1c"
+  },
+  {
+    "name": "pmd-pytcp",
+    "version": "0.3.7",
+    "filename": "pmd_pytcp-0.3.7.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/84/fb/0acdc66ee6800f83a3972fecbf09520663f8095eb7417ed9949e6949421b/pmd_pytcp-0.3.7.tar.gz",
+    "sha256": "8861c091f3fae56f89d10136e2cbcfcb108eaf529d09ab9b9894a2910948b138"
+  },
+  {
+    "name": "developer_disk_image",
+    "version": "0.3.0",
+    "filename": "developer_disk_image-0.3.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/52/f5/16c742e98191761d0925ed424468e3bec14503644c84851046602667d3c3/developer_disk_image-0.3.0.tar.gz",
+    "sha256": "1fb9841dcc5cf81e697b6e0a9c14909c059c1893d675b38398a91c08cb7ba8bc"
+  },
+  {
+    "name": "opack2",
+    "version": "0.0.1",
+    "filename": "opack2-0.0.1.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/b3/ac/8e7d6698282a2130c99fab2fffa3cb1910688ffee16ec36e3d1f71375adf/opack2-0.0.1.tar.gz",
+    "sha256": "0deb0b5d7094253f631db201f3493094a5821404f736ab0234ba805ee93d57b2"
+  },
+  {
+    "name": "pmd-net-addr",
+    "version": "0.0.3",
+    "filename": "pmd_net_addr-0.0.3.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/ce/bb/e24ffb9af4243050b54fbaf08393879456f1bd98996b66c6df509106ad2b/pmd_net_addr-0.0.3.tar.gz",
+    "sha256": "1b0fcb3b77f30076237360eb4cf0243483278a2650fd4a194985cc69b1de07e5"
+  },
+  {
+    "name": "pygnuutils",
+    "version": "0.1.1",
+    "filename": "pygnuutils-0.1.1.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/03/20/6a828fe03d6586241b824ee06c7da854ea351716006a62fd2548eaa5710b/pygnuutils-0.1.1.tar.gz",
+    "sha256": "51ab4f27deb59102b7a04192f7585ff2b3a9de03739982f0b19d3cd4d16bea76"
+  },
+  {
+    "name": "parameter-decorators",
+    "version": "0.0.2",
+    "filename": "parameter_decorators-0.0.2.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/40/b9/03b5e409930cb4cff0f25f6f3199145f4319a88d5f9be7ee17882359f72d/parameter_decorators-0.0.2.tar.gz",
+    "sha256": "499ec96e71394705be9e3eeb28542aab4875694042516c31051d5dcb0488028e"
+  },
+  {
+    "name": "pymobiledevice3",
+    "version": "10.11.0",
+    "filename": "pymobiledevice3-10.11.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/87/05/5a97b74c4c1200f0b8407cc11fd55a833f24f4b1b5c1a3fa3802918167ae/pymobiledevice3-10.11.0.tar.gz",
+    "sha256": "d23c85c760ea6fc4cfa60fe7120dea67e329f62da6ae34f4e0c5e6b89d59c27a"
+  },
+  {
+    "name": "remotezip2",
+    "version": "0.0.2",
+    "filename": "remotezip2-0.0.2.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/3f/47/94335875a4d5339f64943c1a68900f59a91ad987ab8fcd8e5201839e7cc5/remotezip2-0.0.2.tar.gz",
+    "sha256": "db38fb14d0c297af6da8756808bb25f9d3b2c23c7639a14f7a74794b2fc9a261"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "filename": "certifi-2026.7.22.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/a3/c2/24167ea9858356b47a87a50d39908bfdb72ceeefe0041586e704e5376b3a/certifi-2026.7.22.tar.gz",
+    "sha256": "741e2c3b351ddf169a738da9f2c048608ff7f2c5cc02f1ebc6b118bb090d5d55"
+  },
+  {
+    "name": "pytun-pmd3",
+    "version": "3.0.3",
+    "filename": "pytun_pmd3-3.0.3.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/5e/8a/6e73c70ddf5fdf9cf359cdc458f38cf795c4a653c870a4a49c8768e5db86/pytun_pmd3-3.0.3.tar.gz",
+    "sha256": "7fa822092139b4b77e08fad9233dbd4a6fcca2cf2423b0775db962ca5e87a017"
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.0",
+    "filename": "tqdm-4.70.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/21/3b/6c24bec5be5e743ffd99576daa5cc077722fc7d5bbc00bd133fa0c698dc6/tqdm-4.70.0.tar.gz",
+    "sha256": "55b0b0dbd97462d06ebee91e4dac24ed4d4702be82b24f07e6c1d27e08cea220"
+  },
+  {
+    "name": "wa-crypt-tools",
+    "version": "0.1.0",
+    "filename": "wa_crypt_tools-0.1.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/df/2d/305de9042be8b11bf3a1a1935d0aac6ee203dfa6ae7ab1f9ede44059cdeb/wa_crypt_tools-0.1.0.tar.gz",
+    "sha256": "13f93694ac650715039df6de10b1c18b7b0c2f74fe050277ccf1e1e211af889e"
+  },
+  {
+    "name": "pmd-net-proto",
+    "version": "0.0.3",
+    "filename": "pmd_net_proto-0.0.3.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/59/ec/eed1b9570cec3e30b993dee84fa5d16be3399189ffce8c0b46373727d20e/pmd_net_proto-0.0.3.tar.gz",
+    "sha256": "e23d7d68cd13399ff2bf0613f9756e221ead6fd54010cf85186c2ab650631cd7"
+  }
+]

@@ -1,0 +1,14 @@
+dist/
+*.app/
+*.zip
+*.dmg
+__pycache__/
+*.pyc
+.venv/
+.env*
+.DS_Store
+PROJECT_MEMORY.md
+cases/
+evidence/
+backups/
+*.fmlx
