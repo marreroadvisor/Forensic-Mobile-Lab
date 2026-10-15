@@ -12,3 +12,7 @@
 Consulta [seguridad y verificación](SEGURIDAD-Y-VERIFICACION.md), [privacidad](PRIVACY.md) y [limitaciones de la versión](RELEASE-NOTES-3.2.md).
 
 Las pruebas incluidas usan datos sintéticos. No se han conectado dispositivos reales durante la preparación de esta publicación.
+
+## Recorrido visual
+
+Consulta las [capturas de adquisición, herramientas y catálogo de demostración](CAPTURAS.md). Todas las imágenes se tomaron sin datos de casos reales.

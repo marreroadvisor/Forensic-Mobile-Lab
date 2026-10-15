@@ -12,6 +12,12 @@ Requiere **macOS 13 o posterior**. Ejecutables universales Apple Silicon e Intel
 
 **Versión experimental con firma local, sin notarización de Apple.** macOS puede impedir abrir una descarga. No desactives las protecciones del sistema. La firma Developer ID y la notarización siguen pendientes.
 
+## Vista de la aplicación
+
+![Centro de adquisición de Forensic Mobile Lab](docs/images/adquisicion.png)
+
+[Ver todas las capturas](CAPTURAS.md). El catálogo de ejemplo utiliza datos sintéticos.
+
 ## Funciones
 
 - Adquisición lógica autorizada, ingesta de archivos y análisis de backups existentes.
