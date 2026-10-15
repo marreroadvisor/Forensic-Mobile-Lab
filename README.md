@@ -14,7 +14,7 @@ Requiere **macOS 13 o posterior**. Ejecutables universales Apple Silicon e Intel
 
 ## Vista de la aplicación
 
-![Centro de adquisición de Forensic Mobile Lab](docs/images/adquisicion.png)
+![Centro de adquisición de Forensic Mobile Lab](docs/images/adquisicion.jpg)
 
 [Ver todas las capturas](CAPTURAS.md). El catálogo de ejemplo utiliza datos sintéticos.
 

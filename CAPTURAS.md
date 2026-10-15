@@ -4,12 +4,12 @@ Capturas reales de la aplicación 3.2.0 en macOS. Las pantallas de inicio y herr
 
 ## Centro de adquisición
 
-![Centro de adquisición de Forensic Mobile Lab](docs/images/adquisicion.png)
+![Centro de adquisición de Forensic Mobile Lab](docs/images/adquisicion.jpg)
 
 ## Centro de herramientas
 
-![Herramientas de Forensic Mobile Lab](docs/images/herramientas.png)
+![Herramientas de Forensic Mobile Lab](docs/images/herramientas.jpg)
 
 ## Catálogo del expediente de demostración
 
-![Catálogo de archivos sintéticos de demostración](docs/images/catalogo-demo.png)
+![Catálogo de archivos sintéticos de demostración](docs/images/catalogo-demo.jpg)
